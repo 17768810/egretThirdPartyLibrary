@@ -516,4 +516,4 @@
                 return Proxy;
             })(puremvc.Notifier);
             puremvc.Proxy = Proxy;    
-        })(puremvc || (puremvc = {}));
+        })(puremvc || (puremvc = {}));window.puremvc = puremvc;
