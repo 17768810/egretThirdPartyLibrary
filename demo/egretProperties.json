@@ -3,7 +3,7 @@
   "compilerVersion": "5.1.8",
   "template": {},
   "target": {
-    "current": "web"
+    "current": "wxgame"
   },
   "eui": {
     "exmlRoot": [
@@ -32,7 +32,11 @@
     },
     {
       "name": "puremvc",
-      "path": "../library/"
+      "path": "../library/puremvc"
+    },
+    {
+      "name": "gbk",
+      "path": "../library/gbk/"
     }
   ]
 }
