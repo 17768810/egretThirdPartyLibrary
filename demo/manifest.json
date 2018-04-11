@@ -7,7 +7,8 @@
 		"libs/modules/tween/tween.js",
 		"libs/modules/promise/promise.js",
 		"libs/modules/puremvc/puremvc.js",
-		"libs/modules/gbk/gbk.js"
+		"libs/modules/gbk/gbk.js",
+		"libs/modules/Behavior3JS/Behavior3JS.js"
 	],
 	"game": [
 		"bin-debug/AssetAdapter.js",

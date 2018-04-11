@@ -3,7 +3,7 @@
   "compilerVersion": "5.1.8",
   "template": {},
   "target": {
-    "current": "wxgame"
+    "current": "web"
   },
   "eui": {
     "exmlRoot": [
@@ -37,6 +37,10 @@
     {
       "name": "gbk",
       "path": "../library/gbk/"
+    },
+    {
+      "name": "Behavior3JS",
+      "path": "../library/Behavior3JS/"
     }
   ]
 }
